@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://assets3.thrillist.com/v1/image/2811343/1000x666.6666666666666/flatten;crop;jpeg_quality=70);
+    font-family: Rubik, Arial;
+  }
+  
+  form {
+    text-align: center;
+    line-height: 30px;
+    height: 80%;
+    overflow: auto;
+  }
+  
+  form hr {
+    width: 15%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #overlay {
+    width: 120%;
+    margin: 3% auto;
+    height: 95vh;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 40px;
+  }
+  
+  #logo {
+    height: 100px;
+    display: block;
+    margin: auto;
+  }
+  
+  .content {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .toppings label {
+    margin-right: 25px;
+  }
+  
